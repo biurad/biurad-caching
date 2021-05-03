@@ -30,7 +30,7 @@
         "cache/integration-tests": "dev-master",
         "cache/adapter-common": "^1.2",
         "composer/package-versions-deprecated": "^1.11",
-        "doctrine/cache": "^1.11",
+        "doctrine/cache": "^1.11 || ^2.0",
         "phpfastcache/phpfastcache": "^8.0",
         "phpstan/phpstan": "^0.12",
         "phpstan/phpstan-strict-rules": "^0.12",
